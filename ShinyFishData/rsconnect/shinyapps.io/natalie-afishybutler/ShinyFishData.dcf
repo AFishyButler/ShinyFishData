@@ -1,0 +1,13 @@
+name: ShinyFishData
+title: ShinyFishData
+username:
+account: natalie-afishybutler
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5216141
+bundleId: 5300961
+url: https://natalie-afishybutler.shinyapps.io/ShinyFishData/
+when: 1638081896.18389
+lastSyncTime: 1638081896.18389
+asMultiple: FALSE
+asStatic: FALSE
