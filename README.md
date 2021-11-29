@@ -17,12 +17,15 @@ Enjoy!
 
 ### Files
 
+*.gitignore:* This specifies untracked files to be deliberately ignored by Git.
+
 *README.md:* This file! This file delineates all the general information regarding the contents of this repository, with descriptions of all folders and their contents.
+
+*ShinyFishData.Rproj:* Contains the project options and can be used as a shortcut for opening the project directly from the file system. You'll also find a second folder of the same name
 
 ### Folders
 
-**ShinyFishData:** Contains all the material components to the shiny app. In this folder you will find *CTmax_swim_fry.csv*, which is the dataset required to run the app. You will also find *ShinyFishData.Rproj*, which contains the project options and can be used as a shortcut for opening the project directly from the file system. You'll also find a second folder of the same name.
-
+**ShinyFishData:** Contains all the material components to the shiny app. In this folder you will find *CTmax_swim_fry.csv*, which is the dataset required to run the app.
 **ShinyFishData (nested):** Contains the file *app.R*, which contains the code written to power the app. This folder also contains the folder *www*.
 
 **www:** Contains all media embedded in the app in *.png* format.
